@@ -73,3 +73,22 @@ footer {
   .sidebar { width: 100%; text-align: center; }
 }
 
+/* Global image styling for blog */
+.home img,
+.post-content img {
+  display: block;
+  margin: 1.5rem auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+}
+
+.post-cover {
+  display: block;
+  margin: 0 auto 2rem;
+  max-width: 100%;
+  border-radius: 12px;
+}
+
+
