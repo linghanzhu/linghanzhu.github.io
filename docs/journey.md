@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: journey
 title: "Journey"
 permalink: /journey
 ---
