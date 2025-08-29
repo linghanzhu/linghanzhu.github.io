@@ -10,4 +10,5 @@ Happy Chinese Valentine's Day my Yangyang Baby~
 
 想要陪洋洋宝贝一起长大～  
 
-![](/assets/images/baby0.jpg)
+![](/assets/images/baby1.jpg)
+![](/assets/images/pig1.jpg)
