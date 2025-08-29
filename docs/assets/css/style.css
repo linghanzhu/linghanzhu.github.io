@@ -5,8 +5,8 @@
   --muted: #94a3b8;
   --accent: #38bdf8;
   --maxw: 800px;
-  --sans: "Inter", system-ui, sans-serif;
-  --serif: "Merriweather", serif;
+  --sans: "Times New Roman", system-ui, sans-serif;
+  --serif: "Helvetica", serif;
 }
 
 body {
