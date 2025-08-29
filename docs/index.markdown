@@ -6,9 +6,11 @@ layout: home
 title: "Time Machine"
 ---
 
-Happy Chinese Valentine's Day my Yangyang Baby~
+### Happy Chinese Valentine's Day my Yangyang Baby~
 
 想要陪洋洋宝贝一起长大～  
 
-![](/assets/images/baby1.jpg)
-![](/assets/images/pig1.jpg)
+<div style="display: flex; gap: 10px;">
+  <img src="/assets/images/baby1.jpg" style="width: 50%;">
+  <img src="/assets/images/pig1.jpg" style="width: 50%;">
+</div>
