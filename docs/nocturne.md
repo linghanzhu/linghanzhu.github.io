@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nocturne
 title: Nocturne
 permalink: /nocturne
 ---
